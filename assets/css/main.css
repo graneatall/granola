@@ -1368,7 +1368,7 @@ section {
 }
 
 .gallery .swiper-slide-active {
-  text-align: center;
+  text-align: centre;
 }
 
 @media (min-width: 992px) {
@@ -1463,7 +1463,7 @@ section {
   display: none;
   color: #fff;
   background: #059652;
-  text-align: center;
+  text-align: centre;
   padding: 15px;
   font-weight: 600;
 }
