@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #212529;
-  --color-primary: #12ce3b70;
+  --color-primary: #12ce3bc4;
   --color-secondary: #37373f;
 }
 
@@ -870,7 +870,7 @@ section {
   cursor: pointer;
   height: 100%;
   border: 0;
-  border-bottom: 2px solid #b6b6bf;
+  border-bottom: 3px solid #b6b6bf;
 }
 
 @media (max-width: 575px) {
@@ -931,7 +931,7 @@ section {
 
 .menu .tab-content .menu-item .menu-img {
   padding:100 60px;
-  margin-bottom: 15px;
+  margin-bottom: 110px;
 }
 
 .menu .tab-content .menu-item h4 {
@@ -1706,7 +1706,7 @@ section {
 
 #logo-1{
 width: 200px;
-height:200px;
+height: 115px;
 margin-top: 3%;
 margin-left: 2%;
 }
