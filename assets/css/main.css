@@ -587,7 +587,7 @@ section {
 # About Section
 --------------------------------------------------------------*/
 .about .about-img {
-  min-height: 500px;
+  min-height: 00px;
 }
 
 .about h3 {
@@ -827,7 +827,7 @@ section {
   padding: 100px 0;
 }
 
-@media (min-width: 1365px) {
+@media (min-width: 1360px) {
   .stats-counter {
     background-attachment: fixed;
   }
@@ -1705,9 +1705,9 @@ section {
 
 
 #logo-1{
-width: 200px;
-height: 115px;
-margin-top: 3%;
+width: 140px;
+height: 105 px;
+margin-top: 5%;
 margin-left: 2%;
 }
 
