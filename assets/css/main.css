@@ -1742,3 +1742,8 @@ margin-left: 2%;
 }
 
 
+
+.footer .social-links a .download {
+  display: inline;
+}
+
